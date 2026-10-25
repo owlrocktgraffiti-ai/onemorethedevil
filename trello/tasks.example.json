@@ -1,0 +1,21 @@
+{
+  "aufgaben": [
+    {
+      "titel": "Rechnungen Q4 pruefen",
+      "fuer": "max",
+      "bis": "freitag",
+      "prio": "hoch",
+      "notiz": "Ordner liegt im Ablagefach",
+      "schritte": ["Belege sortieren", "Summen pruefen", "An Steuerberater"]
+    },
+    {
+      "titel": "Website-Texte Startseite",
+      "fuer": "anna",
+      "bis": "in 2 wochen"
+    },
+    {
+      "titel": "Noch unverteilt: Angebot Kunde Meier",
+      "liste": "Backlog"
+    }
+  ]
+}

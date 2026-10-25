@@ -1,0 +1,26 @@
+{
+  "board": "Team Board",
+  "layout": "members",
+  "statuses": ["Backlog", "To Do", "In Arbeit", "Warten auf", "Erledigt"],
+  "done_list": "Erledigt",
+  "inbox_list": "Backlog",
+  "priorities": {
+    "hoch": "red",
+    "mittel": "yellow",
+    "niedrig": "green"
+  },
+  "members": [
+    {
+      "alias": "max",
+      "name": "Max Mustermann",
+      "email": "max@example.com",
+      "trello_username": ""
+    },
+    {
+      "alias": "anna",
+      "name": "Anna Beispiel",
+      "email": "anna@example.com",
+      "trello_username": ""
+    }
+  ]
+}

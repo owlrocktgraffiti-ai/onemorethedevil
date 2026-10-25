@@ -1,0 +1,4 @@
+.env
+team.json
+__pycache__/
+*.pyc
